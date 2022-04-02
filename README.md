@@ -1,4 +1,4 @@
-# merge-two-into-one
+# Code wars merge-two-into-one 
 
 ## Problem
 Description:
